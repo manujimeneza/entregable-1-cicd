@@ -23,7 +23,7 @@ jobs:
         shell: bash
       
         run: |
-          echo "Hola, soy Manuela Jimenez Arredondo y este es mi primer workflow!"  
+          echo "Hola, soy Manuela Jiménez Arredondo y este es mi primer workflow!"  
           echo "La fecha y hora actual es: $(date)"  
 
       - name: Configurar Python
