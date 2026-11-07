@@ -2,9 +2,9 @@
 
 ## Integrantes
 
-Texto usado en `AUTOR` y en el saludo del workflow: **Manuela Jiménez Arredondo**
+**Manuela Jiménez Arredondo**
 
-- Manuela Jiménez Arredondo — usuario de GitHub: `manujimeneza` (propietario del repositorio)
+- Manuela Jiménez Arredondo — usuario de GitHub: `manujimeneza` 
 
 ## Ejecución exitosa
 
